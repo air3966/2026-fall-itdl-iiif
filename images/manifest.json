@@ -7,5 +7,87 @@
             "All images loaded in air3966/2026-fall-itdl-iiif project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://air3966.github.io/2026-fall-itdl-iiif/images/atkins_tyrol_1851/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "atkins_tyrol_1851"
+                ]
+            },
+            "height": 3907,
+            "width": 2779,
+            "items": [
+                {
+                    "id": "https://air3966.github.io/2026-fall-itdl-iiif/images/atkins_tyrol_1851/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://air3966.github.io/2026-fall-itdl-iiif/images/atkins_tyrol_1851/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://air3966.github.io/2026-fall-itdl-iiif/images/atkins_tyrol_1851/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 87,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 174,
+                                                "height": 245
+                                            },
+                                            {
+                                                "width": 348,
+                                                "height": 489
+                                            },
+                                            {
+                                                "width": 695,
+                                                "height": 977
+                                            },
+                                            {
+                                                "width": 1390,
+                                                "height": 1954
+                                            },
+                                            {
+                                                "width": 2779,
+                                                "height": 3907
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 2779,
+                                        "id": "https://air3966.github.io/2026-fall-itdl-iiif/images/atkins_tyrol_1851",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 3907
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://air3966.github.io/2026-fall-itdl-iiif/images/atkins_tyrol_1851/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
