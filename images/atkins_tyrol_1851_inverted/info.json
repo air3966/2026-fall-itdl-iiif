@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 87,
+    "height" : 123
+  }, {
+    "width" : 174,
+    "height" : 245
+  }, {
+    "width" : 348,
+    "height" : 489
+  }, {
+    "width" : 695,
+    "height" : 977
+  }, {
+    "width" : 1390,
+    "height" : 1954
+  }, {
+    "width" : 2779,
+    "height" : 3907
+  } ],
+  "profile" : "level0",
+  "width" : 2779,
+  "id" : "https://air3966.github.io/2026-fall-itdl-iiif/images/atkins_tyrol_1851_inverted",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3907
+}
